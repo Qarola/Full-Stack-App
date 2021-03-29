@@ -1,0 +1,72 @@
+
+         .btn-grad-blue-dark {background-image: linear-gradient(to right, #0575E6 0%, #021B79  51%, #0575E6  100%)}
+         .btn-grad-blue-dark {
+            margin: 20px;
+            padding: 3px 5px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: inline-flex;
+            margin-block-end: auto;
+          
+          }
+
+          .btn-grad-blue-dark:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+
+          .btn-grad-red-dark {background-image: linear-gradient(to right, #8E0E00 0%, #1F1C18  51%, #8E0E00  100%)}
+   .btn-grad-red-dark {
+    margin: 10px;
+    padding: 3px 5px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;           
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: inline-flex;
+    margin-block-end: auto;
+    }
+
+    .btn-grad-red-dark:hover {
+      background-position: right center; /* change the direction of the change here */
+      color: #fff;
+      text-decoration: none;
+    }
+   
+    
+    .btn-grad-green-dark {background-image: linear-gradient(to right, #093028 0%, #237A57  51%, #093028  100%)}
+    .btn-grad-green-dark {
+       margin: 10px;
+       padding: 3px 5px;
+       text-align: center;
+       text-transform: uppercase;
+       transition: 0.5s;
+       background-size: 200% auto;
+       color: white;            
+       box-shadow: 0 0 20px #eee;
+       border-radius: 10px;
+       display: inline-flex;
+       margin-block-end: auto;
+     }
+
+     .btn-grad-green-dark:hover {
+       background-position: right center; /* change the direction of the change here */
+       color: #fff;
+       text-decoration: none;
+     }
+    
+      
+  .box-tutorial {
+    margin:10px auto;
+    width: 300px;
+    height: 75px;
+  }

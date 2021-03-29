@@ -1,0 +1,88 @@
+.card {
+    margin: 25px;
+    padding: 30px;
+    width: 18rem;
+    max-width:750 px !important;
+    margin: 10% auto;
+    border-radius: 10px;
+  }
+  
+  .card-body {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    display: inline-block;
+  }
+
+  .box{
+    margin: 50px auto;
+    width: 700px;
+    height: 75px;
+    display: inline-block;
+  }
+
+    
+    
+  .btn-grad {background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%)}
+  .btn-grad {
+     margin: 20px;
+     padding: 2px 62.5px;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;           
+     box-shadow: 0 0 20px #eee;
+     border-radius: 10px;
+     display: inline-block;
+   }
+
+   .btn-grad:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+   }
+  
+  
+   .btn-grad-red {background-image: linear-gradient(to right, #8E0E00 0%, #1F1C18  51%, #8E0E00  100%)}
+   .btn-grad-red {
+    margin: 10px;
+    padding: 2px 5px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;           
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: inline-flex;
+    margin-block-end: auto;
+    display: inline-block;
+    }
+
+    .btn-grad-red:hover {
+      background-position: right center; /* change the direction of the change here */
+      color: #fff;
+      text-decoration: none;
+    }
+    
+    .btn-grad-blue {background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%)}
+    .btn-grad-blue {
+       margin: 20px;
+       padding: 3px 300px;
+       text-align: center;
+       text-transform: uppercase;
+       transition: 0.5s;
+       background-size: 200% auto;
+       color: white;           
+       box-shadow: 0 0 15px rgb(79, 99, 212);
+       border-radius: 10px;
+       display: inline-block;
+     }
+  
+     .btn-grad-blue:hover {
+       background-position: right center; /* change the direction of the change here */
+       color: #fff;
+       text-decoration: none;
+     }
+    
+  

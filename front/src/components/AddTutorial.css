@@ -1,0 +1,29 @@
+
+       .btn-grad-submit {background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%)}
+       .btn-grad-submit {
+          margin: 50px;
+          padding: 2px 85px;
+          text-align: center;
+          text-transform: uppercase;
+          transition: 0.5s;
+          background-size: 200% auto;
+          color: white;           
+          box-shadow: 0 0 20px #eee;
+          border-radius: 10px;
+          margin-top: auto;
+         
+        }
+     
+        .btn-grad-submit:hover {
+          background-position: right; /* change the direction of the change here */
+          color: #fff;
+          text-decoration: none;
+        }
+       
+        
+  .box-add {
+    margin: 30px auto;
+    width: 330px;
+    height: 75px;
+    margin-top: 15% auto;
+  }
